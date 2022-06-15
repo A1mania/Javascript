@@ -16,8 +16,8 @@ console.log("item_6 ==", item_6, "item_6_type ==", item_6_type)
 let item_7 = String(item_6)
 let item_7_type = typeof(item_7)
 console.log("item_7 ==", item_7, "item_7_type ==", item_7_type)
-let age_1 = 18
-let age_2 = 10
+let age_1 = 10
+let age_2 = 18
 let age_3 = 60
 if (age_1<age_2){
     console.log("You don't have access cause your age is" + " " + age_1 + " " + "It's less then")
