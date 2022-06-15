@@ -6,7 +6,8 @@ let item_3 = item_1 + item_2
 console.log(item_3)
 let item_4 = "Yolochka"
 console.log(item_4)
-console.log(item_3 + " " + item_4)
+let sum = item_3 + item_4
+console.log(sum)
 console.log(item_3 * item_4)
 let item_5 = item_3
 let item_6 = 15
